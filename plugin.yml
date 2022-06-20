@@ -1,0 +1,8 @@
+name: KeepRune
+main: Snykkk.Rune
+author: [_DinhThi_]
+version: 1.0
+commands:
+   keeprune:
+      description: Xem danh sách lệnh 
+      usage: /<command>
